@@ -10,7 +10,7 @@ export default function Skills(){
                     <h5>HTML</h5>    
                 </div>
                 <div class="transition-all duration-400 hover:scale-110 relative h-32 w-32 p-4 flex flex-col justify-between items-center shadow-lg shadow-blue-500 rounded-md">
-                    <img  src="/src/media/css_logo.png" alt=""/>    
+                    <img  src="src/media/c_logo.png" alt=""/>    
                     <h5 >CSS</h5>    
                 </div>
                 <div class="transition-all duration-400 hover:scale-110 relative h-32 w-32 p-4 flex flex-col justify-between items-center shadow-lg shadow-blue-500 rounded-md">

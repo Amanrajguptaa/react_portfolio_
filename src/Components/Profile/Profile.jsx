@@ -3,7 +3,7 @@ export default function Profile(){
         <>
         <section class="pb-30 shadow-lg shadow-blue-300/50 bg-">
         <div class="my-10 px-10 pb-8 flex justify-between items-center" >
-                <img class="rounded-full border border-white p-1"src="/src/media/profile.png" alt="profile_photo" />
+                <img class="rounded-full border border-white p-1"src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1709235941/media/profile_szwilv.png" alt="profile_photo" />
             <div className="hidden md:block">
                 <h1 class="hidden md:block Merienda text-7xl font-bold text-orange-300">AMAN RAJ GUPTA</h1>
                 <h3 class="hidden md:block mt-2 text-2xl font-semibold text-lime-100">FRONTEND DEVELOPER |PROGRAMMER | TECHNOLOGY ENTHUSIAST</h3>    

@@ -6,7 +6,7 @@ export default function About(){
             <div class="p-5"><h3 class="text-4xl font-bold">ABOUT ME!</h3></div>
             <div class="px-10 pb-5 flex justify-between items-center">
                 <p>Passionate student of technology, perpetually evolving and hungry for knowledge. Crafting digital solutions while continually upskilling and embracing the thrill of learning. Armed with a keen problem-solving mindset and sharp analytical skills, I tackle challenges head-on, turning obstacles into opportunities.I approach each project as a canvas for creativity, transforming complexity into elegant, intuitive solutions. Join me on this exhilarating journey of discovery, where every challenge is an opportunity to unleash the full potential of technology 🚀</p>
-                <img src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1709234597/about_zmbq4i.png" alt=""/>
+                <img src="/src/media/about.png" alt=""/>
             </div>
         </div>
         </section>

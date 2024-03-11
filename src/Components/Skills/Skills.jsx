@@ -34,7 +34,7 @@ export default function Skills(){
                     <h5>PYTHON</h5>    
                 </div>
                 <div class="transition-all duration-400 hover:scale-110 relative h-32 w-32 p-4 flex flex-col justify-between items-center shadow-lg shadow-blue-500 rounded-md">
-                    <img  src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1710133236/media/sql-1__1_-removebg-preview_mn51ac.png" alt=""/>    
+                    <img  src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1710133426/media/sql-1__1_-removebg-preview_1_1_zxligu.png" alt=""/>    
                     <h5 >SQL</h5>    
                 </div>
                 <div class="transition-all duration-400 hover:scale-110 relative h-32 w-32 p-4 flex flex-col justify-between items-center shadow-lg shadow-blue-500 rounded-md">
